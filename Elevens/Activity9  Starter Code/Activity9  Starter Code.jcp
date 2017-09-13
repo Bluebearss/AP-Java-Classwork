@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Activity9  Starter Code</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>ElevensGUIRunner</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>Board.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Card.java</path>
+			</fileitem>
+			<fileitem>
+				<path>CardGameGUI.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Deck.java</path>
+			</fileitem>
+			<fileitem>
+				<path>ElevensBoard.java</path>
+			</fileitem>
+			<fileitem>
+				<path>ElevensGUIRunner.java</path>
+			</fileitem>
+			<fileitem>
+				<path>TensBoard.java</path>
+			</fileitem>
+			<fileitem>
+				<path>TensGUIRunner.java</path>
+			</fileitem>
+			<fileitem>
+				<path>ThirteensBoard.java</path>
+			</fileitem>
+			<fileitem>
+				<path>ThirteensGUIRunner.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

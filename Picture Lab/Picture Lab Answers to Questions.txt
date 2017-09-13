@@ -1,0 +1,31 @@
+A1:
+1. 8 bits
+2. 3 bytes
+3. 307,200 pixels
+A2:
+1. More Red and Blue and Less Green
+2. More Red and Green and Less Blue
+3. Mostly Blue, fewer Red, least Green
+4. Everything maxed out.
+5. Even low amounts of red, green, and blue
+A3:
+1. Row Index: 0
+2. Column Index: 0
+3. Column Index: 639
+4. Row Index: 479
+5. Top to Bottom
+6. Left to Right
+7. Yes, I can see squares of color.
+
+A5:
+1. No
+2. Yes
+3. No
+4. Yes
+5. Yes
+6. Yes
+7. No
+
+A7:
+1. 90 times
+2. 112 times

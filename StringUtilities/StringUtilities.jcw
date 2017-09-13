@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>StringUtilities</label>
+	</settings>
+	<users>
+		<user>
+			<path>StringUtilities.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>StringUtilities.jcp</path>
+		</project>
+	</projects>
+</workspace>

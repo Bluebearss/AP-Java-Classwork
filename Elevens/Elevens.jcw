@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Elevens</label>
+	</settings>
+	<users>
+		<user>
+			<path>Elevens.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Elevens.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,5 @@
+"G:\\BTHS Senior Assignments\\Algebra\\ComplexNumber.java"
+"G:\\BTHS Senior Assignments\\Algebra\\Coords.java"
+"G:\\BTHS Senior Assignments\\Algebra\\LinearEquation.java"
+"G:\\BTHS Senior Assignments\\Algebra\\QuadraticEquation.java"
+"G:\\BTHS Senior Assignments\\Algebra\\Test.java"

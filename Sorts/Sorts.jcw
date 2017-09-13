@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Sorts</label>
+	</settings>
+	<users>
+		<user>
+			<path>Sorts.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Sorts.jcp</path>
+		</project>
+	</projects>
+</workspace>

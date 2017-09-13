@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Sound</label>
+	</settings>
+	<users>
+		<user>
+			<path>Sound.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Sound.jcp</path>
+		</project>
+	</projects>
+</workspace>

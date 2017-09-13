@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>StudentList</label>
+	</settings>
+	<users>
+		<user>
+			<path>StudentList.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>StudentList.jcp</path>
+		</project>
+	</projects>
+</workspace>

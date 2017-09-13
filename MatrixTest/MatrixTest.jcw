@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MatrixTest</label>
+	</settings>
+	<users>
+		<user>
+			<path>MatrixTest.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MatrixTest.jcp</path>
+		</project>
+	</projects>
+</workspace>

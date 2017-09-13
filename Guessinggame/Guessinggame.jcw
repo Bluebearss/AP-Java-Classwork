@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Guessinggame</label>
+	</settings>
+	<users>
+		<user>
+			<path>Guessinggame.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Guessinggame.jcp</path>
+		</project>
+	</projects>
+</workspace>

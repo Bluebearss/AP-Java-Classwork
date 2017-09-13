@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Elevens</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>CardTester</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>Board.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Card.java</path>
+			</fileitem>
+			<fileitem>
+				<path>CardTester.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Deck.java</path>
+			</fileitem>
+			<fileitem>
+				<path>DeckTester.java</path>
+			</fileitem>
+			<fileitem>
+				<path>ElevensBoard.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Shuffler.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

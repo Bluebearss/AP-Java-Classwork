@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>StudentExtensions</label>
+	</settings>
+	<users>
+		<user>
+			<path>StudentExtensions.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>StudentExtensions.jcp</path>
+		</project>
+	</projects>
+</workspace>

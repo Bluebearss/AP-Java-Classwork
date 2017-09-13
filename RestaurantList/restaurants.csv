@@ -1,0 +1,31 @@
+Restaurant Name,Sales  (in billions),Main Food,isOpenAllDay,hasKidsMenu,Year Founded
+McDonalds,35.45,sandwich,TRUE,TRUE,1955
+Subway,11.9,sandwich,TRUE,TRUE,1965
+Starbucks,12.69,coffee,FALSE,FALSE,1971
+Burger King,8.64,sandwich,FALSE,FALSE,1954
+Wendys,8.51,sandwich,FALSE,TRUE,1969
+Taco Bell,8.2,taco,FALSE,FALSE,1962
+Dunkin Donuts,7.18,donut,TRUE,FALSE,1950
+Pizza Hut,5.5,pizza,FALSE,TRUE,1958
+KFC,4.2,chicken,FALSE,TRUE,1930
+Applebees,4.71,multi,FALSE,TRUE,1980
+Olive Garden,1.56,multi,FALSE,TRUE,1982
+Panera Bread,4.5,multi,FALSE,TRUE,1981
+Jack in the Box,3.18,sandwich,FALSE,FALSE,1951
+Arbys,3.2,sandwich,FALSE,TRUE,1964
+Dairy Queen,3.21,sandwich,FALSE,FALSE,1940
+Red Lobster,2.1,lobster,FALSE,TRUE,1968
+IHOP,3.23,pancake,TRUE,TRUE,1958
+Outback,2.49,steak,FALSE,TRUE,1988
+Chipotle,4.05,rice,FALSE,FALSE,1993
+Papa Johns,2.67,pizza,FALSE,FALSE,1984
+7 Eleven,4.1,multi,TRUE,FALSE,1927
+Popeyes,2.43,chicken,FALSE,TRUE,1972
+Cheesecake Factory,2.6,multi,FALSE,TRUE,1978
+Panda Express,2.45,rice,FALSE,FALSE,1983
+Whataburger,1.8,sandwich,FALSE,FALSE,1950
+Five Guys,1.21,sandwich,FALSE,FALSE,1986
+Shake Shack,2.9,sandwich,FALSE,FALSE,2004
+Pylos,0.2,rice,FALSE,FALSE,2005
+In N Out,0.58,sandwich,TRUE,FALSE,1948
+Buffalo Wings and Rings,0.69,chicken,FALSE,TRUE,1984

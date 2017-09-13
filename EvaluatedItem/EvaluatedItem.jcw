@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>EvaluatedItem</label>
+	</settings>
+	<users>
+		<user>
+			<path>EvaluatedItem.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>EvaluatedItem.jcp</path>
+		</project>
+	</projects>
+</workspace>
